@@ -1,6 +1,8 @@
 
 # Machine Learning Project
 
+Collaborated with [@eden2465](https://github.com/eden2465)
+
 This repository contains a **machine learning project** completed as part of a university course.  
 This project builds a **complete ML pipeline** for predicting the sentiment of social media posts, including data collection, preprocessing, feature engineering, model training, evaluation, and clustering.
 
